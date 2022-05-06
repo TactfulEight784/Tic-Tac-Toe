@@ -1,7 +1,7 @@
 /**
- * @file    Lab7.2.cpp
+ * @file    Tac_Tac_Toe_Driver.cpp
  * @author  Dylan Brown
- * @brief   This file is the main for 7.2 lab
+ * @brief   This file is the driver file for tic tac toe
  * @version 0.1
  * @date    2022-04-3
  *
