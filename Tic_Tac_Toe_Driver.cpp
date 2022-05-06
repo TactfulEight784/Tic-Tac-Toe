@@ -9,7 +9,7 @@
  *
  */
 
-#include "Lab7_2.h" // including the header file with the functions
+#include "Tic_Tac_Toe_Header.h" // including the header file with the functions
 
 using namespace std;
 
