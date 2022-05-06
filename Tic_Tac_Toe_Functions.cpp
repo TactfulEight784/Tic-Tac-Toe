@@ -9,7 +9,7 @@
  *
  */
 
-#include "lab7_2.h"
+#include "Tic_Tac_Toe_Header.h" // header file import
 
 void showBoard(char board[3][3]){ // prints the board out the the terminal with the formatting that is set
     std::cout << board[0][0] << " | " <<  board[0][1] << " | " <<  board[0][2] << "\n" << "- - - - - \n";
