@@ -1,7 +1,7 @@
 /**
- * @file    Lab7_2.h
+ * @file    Tic_Tac_Toe_Header.h
  * @author  Dylan Brown
- * @brief   This file is the header file for lab 7.2
+ * @brief   This file is the header for tic tac toe
  * @version 0.1
  * @date    2022-04-03
  *
