@@ -1,7 +1,7 @@
 /**
- * @file    Lab7_2Functions.cpp
+ * @file    Tic_Tac_Toe_Functions.cpp
  * @author  Dylan Brown
- * @brief   This file has the functions for 7.2
+ * @brief   This file has the functions for tic tac toe
  * @version 0.1
  * @date    2022-04-3
  *
