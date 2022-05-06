@@ -9,7 +9,7 @@
  *
  */
 
-#include "Lab7_2.h" // including the header file with he functions
+#include "Lab7_2.h" // including the header file with the functions
 
 using namespace std;
 
